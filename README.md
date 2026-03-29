@@ -1,1 +1,1 @@
-# ai-builds-index
+# ai-builds-index| 2026-03-29 | [Local LLM Prompt Forge](https://github.com/Anshsurana123/local-prompt-forge-2026-03-29) | A privacy-focused web tool for iteratively building, testing, and comparing prompts against local large language models directly in your browser without external API calls. | [Live](https://Anshsurana123.github.io/local-prompt-forge-2026-03-29) |
